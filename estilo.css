@@ -21,8 +21,11 @@ body {
     right:0;
 
 }
+.navegacao  a:first-child {
+    margin-left: 90px;
+}
 .navegacao a,button {
-    margin: 25px 0px 4px 15px;
+    margin: 25px 0px 5px 30px;
     text-decoration: none;
     color: rgb(168, 168, 165);
 }
@@ -65,7 +68,7 @@ body {
 .secao .ler {
     color: #6fbf44 ;
     margin-top: 30px;
-    font-size: 18px;
+    font-size: 22px;
     letter-spacing: 1px;
 }
 
